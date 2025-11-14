@@ -39,7 +39,7 @@ Whether you're a developer, student, or curious user, Geminary brings conversati
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/geminary.git
+git clone https://github.com/lukiod/geminary.git
 
 # Navigate to the directory
 cd geminary
